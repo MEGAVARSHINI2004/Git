@@ -1,4 +1,4 @@
-#Basic
+#Basic method for for loop
 for var in 'Iterable':
     print(var)
 
